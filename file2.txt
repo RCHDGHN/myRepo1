@@ -1,2 +1,3 @@
 This is file2.txt
 This file was added from local repo
+While this other line wad added from github
